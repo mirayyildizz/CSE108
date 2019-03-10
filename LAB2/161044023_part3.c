@@ -1,3 +1,7 @@
+/* The codes that computes letter grade of averages notes. You must take midterm and final notes from user. Calculate average of notes.
+(40% midterm 60% final) 
+*/
+
 #include <stdio.h>
 
 char letter_grade(int midterm, int final){

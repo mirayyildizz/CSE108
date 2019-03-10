@@ -1,3 +1,5 @@
+/* The code that includes a function which is find the inverse of number */
+
 #include<stdio.h>
 int main(){
 	int number, temp;
